@@ -1,0 +1,27 @@
+
+
+.restaurant-list-container {
+    margin: 20px;
+  }
+  
+  .restaurant-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .restaurant-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .create-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
